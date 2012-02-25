@@ -3,4 +3,5 @@ foo
 Git, a cool SCM
 now thinging...
 extra line
-bar
+bar and BAZ
+
