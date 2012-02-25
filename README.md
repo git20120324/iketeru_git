@@ -6,3 +6,4 @@ extra line
 bar and BAZ
 hello こんにちは江原です
 hello 感動している坂本です
+mawatari writeed.
