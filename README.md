@@ -4,4 +4,5 @@ Git, a cool SCM
 now thinging...
 extra line
 bar and BAZ
+hello こんにちは江原です
 
